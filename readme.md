@@ -14,5 +14,4 @@ Aplikasi penghitung volume dari kubus/balok
 ## Build Signed APK
 1. Android Studio - Build - Generated Signed APK
 
-fariswd  
 2018
